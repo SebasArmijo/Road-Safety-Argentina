@@ -1,6 +1,6 @@
 # Road Safety Argentina
 
-Welcome to the Road Safety Argentina project, dedicated to improving road safety and reducing traffic accidents in Argentina. This README provides an overview of the project, its objectives, and key components.
+**Welcome to the Road Safety Argentina project!** This initiative is a critical step towards enhancing road safety and minimizing traffic accidents in Argentina. Given the profound impact of road traffic accidents on public health, community safety, and infrastructure, this project is not just about data analysis; it's about saving lives and making our roads safer for everyone. Through detailed data analysis and strategic KPI implementation, we aim to provide actionable insights to local authorities to significantly reduce fatalities and improve road safety in Buenos Aires. Dive into this README to understand our project's scope, approach, and the powerful insights we've uncovered.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -10,37 +10,49 @@ Welcome to the Road Safety Argentina project, dedicated to improving road safety
 5. [Power BI Dashboard](#power-bi-dashboard)
 6. [Resources](#resources)
 
+
 ## Project Overview
-The Road Safety Argentina project aims to address the critical issue of road traffic accidents in Argentina. These accidents, also known as traffic accidents or road incidents, involve vehicles on public roads and can have various causes, including collisions between cars, motorcycles, bicycles, or pedestrians, pedestrian accidents, collisions with fixed objects, or vehicle overturns. The project is crucial due to the significant impact of road traffic accidents on the safety of city residents and visitors, as well as on road infrastructure and emergency services. Reducing mortality rates related to road traffic accidents is a key goal for improving road safety in the city. The Mobility and Road Safety Observatory (OMSV), under the Transportation Secretariat of the Autonomous City of Buenos Aires, has requested the development of a data analysis project to provide information for local authorities to take measures to reduce fatalities in road traffic accidents.
+The Road Safety Argentina project aims to address the critical issue of road traffic accidents in Argentina, with a focus on reducing mortality rates and improving road safety in Buenos Aires. The Mobility and Road Safety Observatory (OMSV), under the Transportation Secretariat of the Autonomous City of Buenos Aires, has commissioned this data analysis project to inform policy and intervention strategies.
 
 ## Data Preparation
-For the project's initiation, the data preparation and transformation (ETL) process involved converting the provided Excel data into CSV format, creating two separate files: "Homicides" and "Victims." While most of the data was clean, a major challenge was finding a suitable API to retrieve accurate weather information for Argentina.
+The initial phase of the Road Safety Argentina project involved a comprehensive data preparation and transformation (ETL) process. This process was crucial in ensuring the data's accuracy and usability for in-depth analysis. The key steps included:
+
+- **Data Conversion**: Converting the original data, provided in Excel format, into more versatile CSV files. This conversion facilitated easier manipulation and analysis of the data.
+- **Data Segregation**: Creating two distinct datasets titled "Homicides" and "Victims" to enable focused analysis on different aspects of road safety.
+- **Data Cleaning**: Rigorous cleaning was undertaken to ensure the data's integrity. This involved rectifying inconsistencies, handling missing values, and standardizing data formats.
+- **Weather Data Integration**: A significant challenge was the integration of accurate weather data, which required identifying and utilizing a reliable API for Argentine weather conditions. This step was crucial to explore potential correlations between weather patterns and road accidents.
 
 ## Exploratory Data Analysis (EDA)
-The EDA process began with a general numerical analysis, examining basic statistical figures to understand the data better. A distribution analysis followed to identify patterns and outliers in accident frequencies and locations. A detailed correlation analysis explored relationships between various factors, including time, geography, and vehicle types. It's important to note that while efforts were made to find correlations with weather conditions, this proved challenging as there were likely multiple factors at play, and most of the correlations with weather were found to be minuscule. The team then experimented with different graphical representations to select effective visualizations for the Power BI dashboard.
+The EDA phase was instrumental in uncovering insights and guiding the project's direction. The following key activities were performed:
+
+- **Statistical Analysis**: A thorough examination of basic statistical measures (mean, median, variance, etc.) provided a foundational understanding of the data's characteristics.
+- **Distribution Analysis**: Investigating the distribution of accidents across different times, locations, and conditions helped identify patterns and hotspots, crucial for targeting interventions.
+- **Correlation Study**: An in-depth analysis was conducted to explore correlations between various factors such as accident times, locations, vehicle types, and weather conditions. While correlations with weather were generally minimal, this analysis offered valuable insights into other contributing factors.
+- **Graphical Representations**: Various visualization techniques were employed to better understand and communicate the data.
+- **Insight Generation**: The EDA process led to several key insights, such as the identification of high-risk areas and times, and the impact of specific vehicle types on accident rates. These insights were pivotal in formulating targeted safety measures and interventions.
+
+The findings from the EDA were crucial in shaping the subsequent stages of the project, particularly in the development of the Power BI dashboard and the selection of Key Performance Indicators (KPIs).
 
 ## Key Performance Indicators (KPIs)
-Three key performance indicators (KPIs) were defined to measure the project's impact:
-1. **KPI 1: Homicide Rate Reduction**
-   - Goal: Reduce the rate of homicides in traffic accidents by 10% in the last six months in CABA (Ciudad Autónoma de Buenos Aires).
-2. **KPI 2: Fatal Motorcycle Accident Reduction**
-   - Goal: Reduce the number of fatal motorcycle accidents by 7% in the last year in CABA.
-3. **KPI 3: Nighttime Traffic Accident Reduction**
-   - Goal: Achieve a 5% reduction in the rate of nighttime traffic accidents in CABA.
+Three KPIs were defined:
+1. **Homicide Rate Reduction**: Aim to reduce traffic accident homicides by 10% in CABA.
+2. **Fatal Motorcycle Accident Reduction**: Target a 7% reduction in fatal motorcycle accidents in CABA.
+3. **Nighttime Traffic Accident Reduction**: Achieve a 5% reduction in nighttime traffic accidents in CABA.
 
 ## Power BI Dashboard
-A comprehensive Power BI dashboard was created to visualize and analyze the data related to road safety in Argentina. The dashboard is designed to provide insights into various aspects of traffic accidents and the impact of the key performance indicators (KPIs). Below are the main components of the dashboard:
-- **Main Page:** The main page serves as a general overview of accident reports and key statistics. It includes visualizations such as accident trends over the years, age distribution of victims, a heat map showing accident hotspots, and a fatality count. [Link to Main Page Image](#)
+The Power BI Dashboard is a cornerstone of the Road Safety Argentina project, designed to present complex data in an accessible and visually compelling format. The dashboard serves multiple functions, from highlighting key trends to enabling detailed analysis. The following components are central to the dashboard:
 
-- **KPI Expositions:** Three separate pages are dedicated to explaining each key performance indicator (KPI) in detail. These pages provide a deep dive into the metrics used for KPI measurement and their relevance to road safety goals. [Link to KPI 1 Image](#) [Link to KPI 2 Image](#) [Link to KPI 3 Image](#)
+- **Main Page Overview**: This page acts as the dashboard's hub, presenting a comprehensive overview of road safety data. It features:
+  - **Trends Over Time**: Interactive charts displaying accident trends over various timeframes, allowing users to observe patterns and changes.
+  - **Victim Age Distribution**: Graphs showing the age distribution of accident victims, providing insights into the demographics most affected by road accidents.
+  - **Accident Heat Maps**: Visual heat maps pinpointing accident hotspots within the city, helping to identify areas requiring immediate attention.
+  - **Fatality Counts**: A counter tracking the number of fatalities, offering a stark reminder of the human cost of road accidents.
 
-- **Additional Resources:** In addition to the main components, the dashboard provides access to additional resources, including datasets, images, and workbooks used in the analysis. Stakeholders and collaborators can explore these resources to gain a deeper understanding of the project. [Link to Resources](#)
-
-Feel free to click on the provided links to access images of each page of the Power BI dashboard and explore the visualizations and insights they offer.
+- **KPI Exposition Pages**: Each KPI has its dedicated page, allowing for a deep dive into the specific metrics and their impact on road safety. These pages include:
+  - **KPI Metrics Visualization**: Charts and graphs that track the progress of each KPI against its targets, offering a clear view of the project's impact.
 
 ## Resources
-- [Link to Datasets](#): Access the datasets used in the analysis.
-- [Link to Images](#): View images and visualizations generated during the project.
-- [Link to Workbooks](#): Access workbooks and notebooks used for data analysis.
+- [Datasets](https://github.com/SebasArmijo/Road-Safety-Argentina/tree/master/Data/Processed): Access the datasets used in the analysis.
+- [Images](https://github.com/SebasArmijo/Road-Safety-Argentina/tree/master/Data/Images): View project-related dashboard visualizations.
+- [Workbooks](https://github.com/SebasArmijo/Road-Safety-Argentina/tree/master/Workbooks): Access analytical workbooks and notebooks.
 
-Stakeholders and collaborators are encouraged to explore the project and utilize the provided resources to gain insights into road safety in Argentina.
