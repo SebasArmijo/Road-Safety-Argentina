@@ -29,16 +29,16 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0038,2016-03-21,2016,3,21,Pedestrian,Pedestrian,Male,29,2016-03-21
 2016-0039,2016-03-23,2016,3,23,Driver,Motorcycle,Male,20,2016-03-23
 2016-0041,2016-03-29,2016,3,29,Driver,Motorcycle,Male,54,2016-03-29
-2016-0041,2016-03-29,2016,3,29,Passenger_Companion,Motorcycle,Male,-1,2016-03-30
+2016-0041,2016-03-29,2016,3,29,Passenger_Companion,Motorcycle,Male,42,2016-03-30
 2016-0043,2016-03-30,2016,3,30,Pedestrian,Pedestrian,Female,56,2016-03-30
 2016-0044,2016-03-31,2016,3,31,Driver,Motorcycle,Male,24,2016-03-31
-2016-0045,2016-04-11,2016,4,11,Driver,Motorcycle,Male,-1,
+2016-0045,2016-04-11,2016,4,11,Driver,Motorcycle,Male,42,
 2016-0047,2016-04-15,2016,4,15,Pedestrian,Pedestrian,Male,41,2016-04-15
-2016-0048,2016-04-15,2016,4,15,Pedestrian,Pedestrian,Female,-1,
-2016-0049,2016-04-17,2016,4,17,No Data,No Data,No Data,-1,
+2016-0048,2016-04-15,2016,4,15,Pedestrian,Pedestrian,Female,42,
+2016-0049,2016-04-17,2016,4,17,No Data,No Data,No Data,42,
 2016-0050,2016-04-19,2016,4,19,Pedestrian,Pedestrian,Male,78,2016-04-19
 2016-0051,2016-04-20,2016,4,20,Driver,Motorcycle,Male,36,2016-04-20
-2016-0052,2016-04-20,2016,4,20,No Data,Motorcycle,No Data,-1,
+2016-0052,2016-04-20,2016,4,20,No Data,Motorcycle,No Data,42,
 2016-0053,2016-04-22,2016,4,22,Pedestrian,Pedestrian,Male,38,2016-04-22
 2016-0054,2016-04-23,2016,4,23,Driver,Motorcycle,Male,30,2016-04-25
 2016-0055,2016-04-25,2016,4,25,Pedestrian,Pedestrian,Male,79,2016-04-28
@@ -54,7 +54,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0074,2016-06-12,2016,6,12,Driver,Car,Male,60,
 2016-0075,2016-06-12,2016,6,12,Pedestrian,Pedestrian,Male,42,2016-06-12
 2016-0076,2016-06-13,2016,6,13,Pedestrian,Pedestrian,Female,53,2016-06-13
-2016-0077,2016-06-13,2016,6,13,Pedestrian,Pedestrian,Female,-1,
+2016-0077,2016-06-13,2016,6,13,Pedestrian,Pedestrian,Female,42,
 2016-0078,2016-06-13,2016,6,13,Driver,Motorcycle,Male,30,
 2016-0079,2016-06-16,2016,6,16,Driver,Car,Female,51,
 2016-0080,2016-06-18,2016,6,18,Driver,Car,Male,60,
@@ -62,7 +62,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0082,2016-06-27,2016,6,27,Pedestrian,Pedestrian,Male,87,2016-07-05
 2016-0083,2016-06-28,2016,6,28,Pedestrian,Pedestrian,Female,76,2016-06-29
 2016-0084,2016-06-29,2016,6,29,Pedestrian,Pedestrian,Male,57,2016-07-08
-2016-0085,2016-06-29,2016,6,29,No Data,Motorcycle,Male,-1,
+2016-0085,2016-06-29,2016,6,29,No Data,Motorcycle,Male,42,
 2016-0086,2016-06-30,2016,6,30,Pedestrian,Pedestrian,Male,75,2016-07-01
 2016-0087,2016-07-03,2016,7,3,Driver,Motorcycle,Male,23,2016-07-03
 2016-0088,2016-07-11,2016,7,11,Pedestrian,Pedestrian,Female,70,2016-07-14
@@ -71,7 +71,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0092,2016-07-15,2016,7,15,Driver,Motorcycle,Male,24,2016-07-15
 2016-0093,2016-07-17,2016,7,17,Driver,Car,Male,35,2016-07-19
 2016-0095,2016-07-23,2016,7,23,Driver,Motorcycle,Male,29,2016-07-23
-2016-0096,2016-07-25,2016,7,25,Driver,Motorcycle,Male,-1,
+2016-0096,2016-07-25,2016,7,25,Driver,Motorcycle,Male,42,
 2016-0097,2016-07-26,2016,7,26,Pedestrian,Pedestrian,Male,80,2016-08-12
 2016-0098,2016-07-27,2016,7,27,Driver,Motorcycle,Female,43,
 2016-0099,2016-07-29,2016,7,29,Driver,Cargo Vehicle,Male,45,
@@ -88,11 +88,11 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0112,2016-08-27,2016,8,27,Driver,Motorcycle,Male,24,2016-08-27
 2016-0113,2016-08-27,2016,8,27,Pedestrian,Pedestrian,Female,60,
 2016-0114,2016-08-31,2016,8,31,Cyclist,Bicycle,Female,55,2016-08-31
-2016-0115,2016-09-02,2016,9,2,No Data,No Data,Male,-1,
+2016-0115,2016-09-02,2016,9,2,No Data,No Data,Male,42,
 2016-0116,2016-09-02,2016,9,2,Driver,Motorcycle,Male,30,2016-09-02
 2016-0117,2016-09-03,2016,9,3,Driver,Car,Male,43,
 2016-0118,2016-09-04,2016,9,4,Driver,Car,Male,27,2016-09-04
-2016-0119,2016-09-04,2016,9,4,Passenger_Companion,No Data,Female,-1,
+2016-0119,2016-09-04,2016,9,4,Passenger_Companion,No Data,Female,42,
 2016-0122,2016-09-13,2016,9,13,Cyclist,Bicycle,Male,49,2016-09-13
 2016-0123,2016-09-14,2016,9,14,Driver,Motorcycle,Female,58,
 2016-0124,2016-09-16,2016,9,16,Pedestrian,Pedestrian,Male,67,
@@ -107,7 +107,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0133,2016-10-14,2016,10,14,Driver,Motorcycle,Male,41,2016-10-25
 2016-0134,2016-10-23,2016,10,23,Driver,Motorcycle,Male,25,2016-10-23
 2016-0135,2016-10-24,2016,10,24,Pedestrian,Pedestrian,Male,29,2016-10-25
-2016-0136,2016-10-25,2016,10,25,Driver,Motorcycle,No Data,-1,
+2016-0136,2016-10-25,2016,10,25,Driver,Motorcycle,No Data,42,
 2016-0137,2016-10-25,2016,10,25,Driver,Motorcycle,Male,30,
 2016-0138,2016-10-27,2016,10,27,Cyclist,Bicycle,Female,33,
 2016-0139,2016-10-28,2016,10,28,Passenger_Companion,Motorcycle,Female,35,
@@ -118,9 +118,9 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0145,2016-11-07,2016,11,7,Driver,Motorcycle,Male,39,2016-11-07
 2016-0146,2016-11-09,2016,11,9,Pedestrian,Pedestrian,Female,29,
 2016-0147,2016-11-16,2016,11,16,Passenger_Companion,Emergency Vehicle,Male,55,2016-11-16
-2016-0148,2016-11-16,2016,11,16,Driver,Motorcycle,Male,-1,
+2016-0148,2016-11-16,2016,11,16,Driver,Motorcycle,Male,42,
 2016-0150,2016-11-18,2016,11,18,Passenger_Companion,Cargo Vehicle,Male,41,2016-11-18
-2016-0151,2016-11-18,2016,11,18,Pedestrian,Pedestrian,No Data,-1,
+2016-0151,2016-11-18,2016,11,18,Pedestrian,Pedestrian,No Data,42,
 2016-0152,2016-11-23,2016,11,23,Driver,Motorcycle,Male,42,2016-11-24
 2016-0153,2016-11-25,2016,11,25,Pedestrian,Pedestrian,Female,83,2016-11-25
 2016-0154,2016-11-26,2016,11,26,Driver,Motorcycle,Male,38,
@@ -137,11 +137,11 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2016-0168,2016-12-13,2016,12,13,Driver,Motorcycle,Male,43,2016-12-13
 2016-0169,2016-12-15,2016,12,15,Driver,Motorcycle,Male,24,2016-12-16
 2016-0170,2016-12-19,2016,12,19,Passenger_Companion,Motorcycle,Male,21,2016-12-19
-2016-0171,2016-12-25,2016,12,25,Driver,Motorcycle,No Data,-1,
+2016-0171,2016-12-25,2016,12,25,Driver,Motorcycle,No Data,42,
 2016-0172,2016-12-26,2016,12,26,Driver,Motorcycle,Male,38,2016-12-26
 2016-0173,2016-12-26,2016,12,26,Driver,Motorcycle,Male,35,
-2016-0174,2016-12-27,2016,12,27,No Data,No Data,No Data,-1,
-2016-0175,2016-12-27,2016,12,27,Pedestrian,Pedestrian,Female,-1,
+2016-0174,2016-12-27,2016,12,27,No Data,No Data,No Data,42,
+2016-0175,2016-12-27,2016,12,27,Pedestrian,Pedestrian,Female,42,
 2016-0176,2016-12-28,2016,12,28,Driver,Motorcycle,Male,28,
 2016-0177,2016-12-29,2016,12,29,Pedestrian,Pedestrian,Female,27,
 2016-0178,2016-12-30,2016,12,30,Pedestrian,Pedestrian,Female,7,
@@ -164,7 +164,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2017-0025,2017-02-24,2017,2,24,Driver,Motorcycle,Male,23,2017-02-24
 2017-0026,2017-02-26,2017,2,26,Passenger_Companion,Car,Female,23,2017-02-26
 2017-0026,2017-02-26,2017,2,26,Driver,Car,Male,19,2017-02-26
-2017-0027,2017-02-26,2017,2,26,Pedestrian,Pedestrian,Male,-1,2017-02-26
+2017-0027,2017-02-26,2017,2,26,Pedestrian,Pedestrian,Male,42,2017-02-26
 2017-0028,2017-02-28,2017,2,28,Pedestrian,Pedestrian,Male,87,2017-02-28
 2017-0029,2017-03-07,2017,3,7,No Data,No Data,Male,34,2017-03-07
 2017-0030,2017-03-07,2017,3,7,Driver,Car,Female,27,2017-03-07
@@ -175,13 +175,13 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2017-0035,2017-03-23,2017,3,23,Driver,Car,Male,28,2017-03-23
 2017-0035,2017-03-23,2017,3,23,Passenger_Companion,Car,Male,32,2017-03-23
 2017-0035,2017-03-23,2017,3,23,Passenger_Companion,Car,Male,30,2017-03-23
-2017-0036,2017-03-29,2017,3,29,Passenger_Companion,Motorcycle,Female,-1,2017-03-29
+2017-0036,2017-03-29,2017,3,29,Passenger_Companion,Motorcycle,Female,42,2017-03-29
 2017-0036,2017-03-29,2017,3,29,Driver,Motorcycle,Male,20,2017-03-29
 2017-0037,2017-03-31,2017,3,31,Driver,Motorcycle,Male,41,2017-03-31
 2017-0038,2017-04-01,2017,4,1,Driver,Motorcycle,Female,40,2017-04-01
 2017-0040,2017-04-03,2017,4,3,Driver,Car,Male,43,2017-04-03
 2017-0041,2017-04-03,2017,4,3,Driver,Motorcycle,Male,17,
-2017-0042,2017-04-10,2017,4,10,Driver,Motorcycle,Male,-1,2017-04-10
+2017-0042,2017-04-10,2017,4,10,Driver,Motorcycle,Male,42,2017-04-10
 2017-0045,2017-04-14,2017,4,14,Driver,Motorcycle,Male,21,2017-04-14
 2017-0047,2017-04-23,2017,4,23,Driver,Motorcycle,Male,37,2017-04-23
 2017-0049,2017-04-27,2017,4,27,Pedestrian,Pedestrian,Male,22,2017-04-27
@@ -224,7 +224,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2017-0090,2017-07-15,2017,7,15,Pedestrian,Pedestrian,Male,22,2017-07-15
 2017-0091,2017-07-15,2017,7,15,Driver,Motorcycle,Male,58,2017-07-15
 2017-0092,2017-07-24,2017,7,24,Pedestrian,Pedestrian,Male,66,2017-07-24
-2017-0093,2017-07-25,2017,7,25,Pedestrian,Pedestrian,Male,-1,2017-07-25
+2017-0093,2017-07-25,2017,7,25,Pedestrian,Pedestrian,Male,42,2017-07-25
 2017-0094,2017-07-27,2017,7,27,Cyclist,Bicycle,Female,56,2017-07-27
 2017-0095,2017-08-06,2017,8,6,Driver,Motorcycle,Male,36,2017-08-06
 2017-0096,2017-08-07,2017,8,7,Pedestrian,Pedestrian,Male,87,2017-08-07
@@ -242,7 +242,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2017-0110,2017-09-06,2017,9,6,Pedestrian,Pedestrian,Male,56,2017-09-07
 2017-0111,2017-09-07,2017,9,7,Pedestrian,Pedestrian,Female,79,2017-09-07
 2017-0112,2017-09-10,2017,9,10,Passenger_Companion,Car,Male,1,
-2017-0112,2017-09-10,2017,9,10,Passenger_Companion,Car,Male,-1,2017-09-13
+2017-0112,2017-09-10,2017,9,10,Passenger_Companion,Car,Male,42,2017-09-13
 2017-0113,2017-09-11,2017,9,11,Pedestrian,Pedestrian,Female,76,2017-09-11
 2017-0114,2017-09-15,2017,9,15,Driver,Car,Male,26,2017-09-15
 2017-0115,2017-09-19,2017,9,19,Driver,Motorcycle,Male,34,
@@ -274,9 +274,9 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2017-0148,2017-11-29,2017,11,29,Pedestrian,Pedestrian,Female,82,2017-11-29
 2017-0149,2017-11-30,2017,11,30,Pedestrian,Pedestrian,Male,13,2017-11-30
 2017-0150,2017-12-04,2017,12,4,Pedestrian,Pedestrian,Male,56,2017-12-04
-2017-0151,2017-12-04,2017,12,4,Pedestrian,Pedestrian,Male,-1,2017-12-04
+2017-0151,2017-12-04,2017,12,4,Pedestrian,Pedestrian,Male,42,2017-12-04
 2017-0152,2017-12-06,2017,12,6,Cyclist,Bicycle,Male,19,2017-12-06
-2017-0153,2017-12-11,2017,12,11,Passenger_Companion,Motorcycle,Male,-1,2017-12-12
+2017-0153,2017-12-11,2017,12,11,Passenger_Companion,Motorcycle,Male,42,2017-12-12
 2017-0153,2017-12-11,2017,12,11,Driver,Motorcycle,Male,30,2017-12-12
 2017-0154,2017-12-11,2017,12,11,Pedestrian,Pedestrian,Male,76,2017-12-11
 2017-0155,2017-12-12,2017,12,12,No Data,No Data,Male,77,
@@ -298,7 +298,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2018-0011,2018-01-19,2018,1,19,Pedestrian,Pedestrian,Male,84,2018-01-19
 2018-0012,2018-01-26,2018,1,26,Driver,Motorcycle,Male,20,2018-01-26
 2018-0013,2018-01-28,2018,1,28,Driver,Motorcycle,Male,44,2018-01-28
-2018-0014,2018-01-31,2018,1,31,Pedestrian,Pedestrian,Male,-1,2018-02-04
+2018-0014,2018-01-31,2018,1,31,Pedestrian,Pedestrian,Male,42,2018-02-04
 2018-0015,2018-02-06,2018,2,6,Driver,Motorcycle,Male,28,2018-02-06
 2018-0015,2018-02-06,2018,2,6,Passenger_Companion,Motorcycle,Male,19,2018-02-06
 2018-0016,2018-02-15,2018,2,15,Driver,Motorcycle,Male,31,2018-02-15
@@ -327,7 +327,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2018-0038,2018-04-20,2018,4,20,Pedestrian,Pedestrian,Female,59,2018-04-20
 2018-0038,2018-04-20,2018,4,20,Pedestrian,Pedestrian,Male,61,2018-04-20
 2018-0039,2018-04-21,2018,4,21,Pedestrian,Pedestrian,Male,37,2018-04-21
-2018-0040,2018-04-27,2018,4,27,Pedestrian,Pedestrian,Female,-1,2018-04-27
+2018-0040,2018-04-27,2018,4,27,Pedestrian,Pedestrian,Female,42,2018-04-27
 2018-0041,2018-04-27,2018,4,27,Pedestrian,Pedestrian,Female,78,2018-04-27
 2018-0042,2018-04-27,2018,4,27,Passenger_Companion,Motorcycle,Male,23,2018-04-27
 2018-0043,2018-04-28,2018,4,28,Driver,Motorcycle,Male,25,2018-04-29
@@ -358,7 +358,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2018-0068,2018-07-01,2018,7,1,Driver,Motorcycle,Male,21,2018-07-01
 2018-0069,2018-07-04,2018,7,4,Cyclist,Bicycle,Male,20,2018-07-04
 2018-0070,2018-07-07,2018,7,7,Driver,Motorcycle,Male,33,2018-07-07
-2018-0071,2018-07-10,2018,7,10,Driver,Motorcycle,Male,-1,2018-07-10
+2018-0071,2018-07-10,2018,7,10,Driver,Motorcycle,Male,42,2018-07-10
 2018-0072,2018-07-11,2018,7,11,Driver,Motorcycle,Male,27,2018-07-13
 2018-0073,2018-07-11,2018,7,11,Pedestrian,Pedestrian,Female,67,2018-07-11
 2018-0074,2018-07-14,2018,7,14,Driver,Car,Male,25,2018-07-14
@@ -366,17 +366,17 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2018-0076,2018-07-16,2018,7,16,Driver,Car,Male,73,2018-07-16
 2018-0077,2018-07-16,2018,7,16,Driver,Car,Male,58,2018-07-17
 2018-0078,2018-07-21,2018,7,21,Pedestrian,Pedestrian,Male,27,2018-07-21
-2018-0079,2018-07-23,2018,7,23,Pedestrian,Pedestrian,Male,-1,2018-07-23
+2018-0079,2018-07-23,2018,7,23,Pedestrian,Pedestrian,Male,42,2018-07-23
 2018-0080,2018-07-25,2018,7,25,Pedestrian,Pedestrian,Male,26,2018-07-25
 2018-0081,2018-07-29,2018,7,29,Pedestrian,Pedestrian,Male,35,2018-07-29
 2018-0082,2018-08-01,2018,8,1,Driver,Motorcycle,Female,17,2018-08-01
-2018-0083,2018-08-02,2018,8,2,Driver,Motorcycle,Male,-1,2018-08-02
+2018-0083,2018-08-02,2018,8,2,Driver,Motorcycle,Male,42,2018-08-02
 2018-0084,2018-08-03,2018,8,3,Pedestrian,Pedestrian,Male,45,2018-08-03
 2018-0085,2018-08-03,2018,8,3,Passenger_Companion,Motorcycle,Female,22,2018-08-03
 2018-0085,2018-08-03,2018,8,3,Driver,Motorcycle,Male,30,2018-08-03
 2018-0086,2018-08-10,2018,8,10,Pedestrian,Pedestrian,Male,40,2018-08-10
 2018-0087,2018-08-15,2018,8,15,Pedestrian,Pedestrian,Male,75,2018-08-20
-2018-0088,2018-08-17,2018,8,17,Driver,Motorcycle,Male,-1,2018-08-17
+2018-0088,2018-08-17,2018,8,17,Driver,Motorcycle,Male,42,2018-08-17
 2018-0089,2018-08-17,2018,8,17,Pedestrian,Pedestrian,Male,80,2018-08-17
 2018-0090,2018-08-18,2018,8,18,Driver,Motorcycle,Male,27,2018-08-18
 2018-0091,2018-08-19,2018,8,19,Passenger_Companion,Car,Female,23,2018-08-19
@@ -390,7 +390,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2018-0098,2018-09-09,2018,9,9,Passenger_Companion,Car,Male,54,2018-09-09
 2018-0099,2018-09-12,2018,9,12,Pedestrian,Pedestrian,Male,18,2018-09-13
 2018-0100,2018-09-20,2018,9,20,No Data,Motorcycle,Female,33,2018-09-20
-2018-0101,2018-09-21,2018,9,21,Driver,Car,Male,-1,2018-09-21
+2018-0101,2018-09-21,2018,9,21,Driver,Car,Male,42,2018-09-21
 2018-0102,2018-09-21,2018,9,21,Driver,Motorcycle,Male,20,2018-09-21
 2018-0103,2018-09-27,2018,9,27,Pedestrian,Pedestrian,Male,1,2018-09-29
 2018-0104,2018-10-01,2018,10,1,Driver,Motorcycle,Male,22,2018-10-01
@@ -420,7 +420,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2018-0128,2018-11-25,2018,11,25,Passenger_Companion,Car,Male,49,2018-11-25
 2018-0128,2018-11-25,2018,11,25,Passenger_Companion,Car,Female,39,2018-11-25
 2018-0129,2018-11-28,2018,11,28,Driver,Motorcycle,Male,37,2018-11-30
-2018-0130,2018-12-03,2018,12,3,Driver,Motorcycle,Male,-1,2018-12-03
+2018-0130,2018-12-03,2018,12,3,Driver,Motorcycle,Male,42,2018-12-03
 2018-0131,2018-12-07,2018,12,7,Driver,Motorcycle,Male,29,2018-12-07
 2018-0132,2018-12-12,2018,12,12,Pedestrian,Pedestrian,Male,70,2018-12-12
 2018-0133,2018-12-12,2018,12,12,Pedestrian,Pedestrian,Female,60,2018-12-12
@@ -443,9 +443,9 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2019-0007,2019-01-26,2019,1,26,Driver,Motorcycle,Male,35,2019-01-26
 2019-0008,2019-01-30,2019,1,30,Driver,Motorcycle,Male,42,2019-01-31
 2019-0009,2019-01-31,2019,1,31,Driver,Motorcycle,Male,34,2019-01-31
-2019-0010,2019-02-02,2019,2,2,Pedestrian,Pedestrian,Male,-1,2019-02-02
+2019-0010,2019-02-02,2019,2,2,Pedestrian,Pedestrian,Male,42,2019-02-02
 2019-0010,2019-02-02,2019,2,2,Pedestrian,Pedestrian,Male,59,2019-02-02
-2019-0011,2019-02-10,2019,2,10,Pedestrian,Pedestrian,Male,-1,2019-02-10
+2019-0011,2019-02-10,2019,2,10,Pedestrian,Pedestrian,Male,42,2019-02-10
 2019-0012,2019-02-17,2019,2,17,Driver,Motorcycle,Male,31,2019-02-20
 2019-0013,2019-02-20,2019,2,20,Pedestrian,Pedestrian,Male,39,2019-03-02
 2019-0014,2019-02-20,2019,2,20,Driver,Motorcycle,Male,69,2019-02-20
@@ -453,22 +453,22 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2019-0016,2019-02-24,2019,2,24,Driver,Motorcycle,Male,40,2019-02-24
 2019-0017,2019-03-03,2019,3,3,Driver,Car,Male,22,2019-03-07
 2019-0018,2019-03-03,2019,3,3,Pedestrian,Pedestrian,Female,29,2019-03-03
-2019-0019,2019-03-06,2019,3,6,Driver,Motorcycle,Male,-1,2019-03-26
+2019-0019,2019-03-06,2019,3,6,Driver,Motorcycle,Male,42,2019-03-26
 2019-0020,2019-03-07,2019,3,7,Driver,Motorcycle,Male,43,2019-03-07
 2019-0021,2019-03-15,2019,3,15,Driver,Motorcycle,Male,23,2019-03-16
-2019-0022,2019-03-15,2019,3,15,Passenger_Companion,Car,Male,-1,2019-03-15
+2019-0022,2019-03-15,2019,3,15,Passenger_Companion,Car,Male,42,2019-03-15
 2019-0023,2019-03-16,2019,3,16,Driver,Car,Male,34,2019-03-16
 2019-0024,2019-03-19,2019,3,19,Driver,Motorcycle,Male,32,2019-03-19
 2019-0025,2019-03-22,2019,3,22,Pedestrian,Pedestrian,Male,27,2019-04-04
-2019-0026,2019-03-28,2019,3,28,Pedestrian,Pedestrian,Male,-1,2019-03-28
+2019-0026,2019-03-28,2019,3,28,Pedestrian,Pedestrian,Male,42,2019-03-28
 2019-0027,2019-03-28,2019,3,28,Cyclist,Bicycle,Male,37,2019-03-28
-2019-0028,2019-04-06,2019,4,6,Pedestrian,Pedestrian,Female,-1,2019-04-06
+2019-0028,2019-04-06,2019,4,6,Pedestrian,Pedestrian,Female,42,2019-04-06
 2019-0029,2019-04-07,2019,4,7,Driver,Motorcycle,Male,27,2019-04-07
 2019-0030,2019-04-09,2019,4,9,Driver,Motorcycle,Male,25,2019-04-09
 2019-0031,2019-04-12,2019,4,12,Cyclist,Bicycle,Male,20,2019-04-12
 2019-0032,2019-04-16,2019,4,16,Pedestrian,Pedestrian,Female,83,2019-04-18
 2019-0033,2019-04-18,2019,4,18,Driver,Motorcycle,Male,25,2019-04-18
-2019-0034,2019-04-21,2019,4,21,Driver,Motorcycle,Male,-1,2019-04-21
+2019-0034,2019-04-21,2019,4,21,Driver,Motorcycle,Male,42,2019-04-21
 2019-0035,2019-04-23,2019,4,23,Pedestrian,Pedestrian,Female,75,2019-04-23
 2019-0036,2019-04-26,2019,4,26,Driver,Motorcycle,Male,34,2019-05-02
 2019-0037,2019-05-01,2019,5,1,Driver,Motorcycle,Male,17,2019-05-01
@@ -478,7 +478,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2019-0040,2019-05-09,2019,5,9,Driver,Motorcycle,Male,44,2019-05-15
 2019-0041,2019-05-11,2019,5,11,Passenger_Companion,Car,Female,78,2019-05-11
 2019-0042,2019-05-14,2019,5,14,Pedestrian,Pedestrian,Male,39,2019-05-14
-2019-0043,2019-05-21,2019,5,21,Cyclist,Bicycle,Female,-1,2019-05-21
+2019-0043,2019-05-21,2019,5,21,Cyclist,Bicycle,Female,42,2019-05-21
 2019-0044,2019-05-27,2019,5,27,Pedestrian,Pedestrian,Female,77,2019-05-29
 2019-0045,2019-06-03,2019,6,3,Driver,Motorcycle,Male,33,2019-06-03
 2019-0046,2019-06-04,2019,6,4,Passenger_Companion,Motorcycle,Female,26,2019-06-04
@@ -497,7 +497,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2019-0060,2019-07-17,2019,7,17,Pedestrian,Pedestrian,Female,78,2019-07-17
 2019-0061,2019-07-17,2019,7,17,Pedestrian,Pedestrian,Female,58,2019-07-17
 2019-0062,2019-08-01,2019,8,1,Pedestrian,Pedestrian,Female,60,2019-08-02
-2019-0063,2019-08-04,2019,8,4,Passenger_Companion,Motorcycle,Male,-1,2019-08-04
+2019-0063,2019-08-04,2019,8,4,Passenger_Companion,Motorcycle,Male,42,2019-08-04
 2019-0064,2019-08-06,2019,8,6,Driver,Motorcycle,Male,20,2019-08-06
 2019-0065,2019-08-08,2019,8,8,Pedestrian,Pedestrian,Female,55,2019-08-09
 2019-0066,2019-08-11,2019,8,11,Pedestrian,Pedestrian,Male,40,2019-08-11
@@ -505,7 +505,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2019-0068,2019-08-14,2019,8,14,Driver,Motorcycle,Male,53,2019-08-14
 2019-0069,2019-08-17,2019,8,17,Driver,Motorcycle,Male,43,2019-08-17
 2019-0070,2019-08-22,2019,8,22,Driver,Motorcycle,Male,25,2019-08-22
-2019-0071,2019-08-27,2019,8,27,Pedestrian,Pedestrian,Male,-1,2019-08-27
+2019-0071,2019-08-27,2019,8,27,Pedestrian,Pedestrian,Male,42,2019-08-27
 2019-0072,2019-08-28,2019,8,28,Driver,Car,Male,22,2019-09-02
 2019-0073,2019-08-29,2019,8,29,Driver,Car,Male,29,2019-09-06
 2019-0074,2019-08-29,2019,8,29,Driver,Motorcycle,Male,35,2019-08-29
@@ -528,8 +528,8 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2019-0091,2019-11-01,2019,11,1,Pedestrian,Pedestrian,Male,35,2019-11-01
 2019-0092,2019-11-03,2019,11,3,Pedestrian,Pedestrian,Male,37,2019-11-03
 2019-0093,2019-11-13,2019,11,13,Cyclist,Bicycle,Male,16,2019-11-13
-2019-0094,2019-11-18,2019,11,18,Passenger_Companion,Motorcycle,Female,-1,2019-11-18
-2019-0095,2019-11-20,2019,11,20,Driver,Motorcycle,Male,-1,2019-11-20
+2019-0094,2019-11-18,2019,11,18,Passenger_Companion,Motorcycle,Female,42,2019-11-18
+2019-0095,2019-11-20,2019,11,20,Driver,Motorcycle,Male,42,2019-11-20
 2019-0096,2019-11-22,2019,11,22,Pedestrian,Pedestrian,Male,73,2019-11-22
 2019-0097,2019-11-25,2019,11,25,Passenger_Companion,Motorcycle,Female,23,2019-11-25
 2019-0098,2019-11-25,2019,11,25,Passenger_Companion,Passengers,Female,61,2019-11-29
@@ -547,14 +547,14 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2020-0007,2020-01-27,2020,1,27,Pedestrian,Pedestrian,Male,52,2020-01-27
 2020-0008,2020-01-30,2020,1,30,Driver,Motorcycle,Male,49,2020-01-30
 2020-0009,2020-02-04,2020,2,4,Pedestrian,Pedestrian,Male,48,2020-02-05
-2020-0010,2020-02-08,2020,2,8,Driver,Motorcycle,Male,-1,2020-02-08
+2020-0010,2020-02-08,2020,2,8,Driver,Motorcycle,Male,42,2020-02-08
 2020-0011,2020-02-12,2020,2,12,Driver,Motorcycle,Male,31,2020-02-12
 2020-0012,2020-02-18,2020,2,18,Pedestrian,Pedestrian,Female,66,2020-02-18
 2020-0013,2020-02-20,2020,2,20,Pedestrian,Pedestrian,Female,58,2020-03-03
-2020-0014,2020-02-27,2020,2,27,Driver,Motorcycle,Male,-1,2020-02-27
+2020-0014,2020-02-27,2020,2,27,Driver,Motorcycle,Male,42,2020-02-27
 2020-0015,2020-02-28,2020,2,28,Driver,Motorcycle,Male,29,2020-02-28
 2020-0016,2020-02-29,2020,2,29,Pedestrian,Pedestrian,Male,68,2020-03-09
-2020-0017,2020-03-05,2020,3,5,Pedestrian,Pedestrian,Male,-1,2020-03-05
+2020-0017,2020-03-05,2020,3,5,Pedestrian,Pedestrian,Male,42,2020-03-05
 2020-0018,2020-03-09,2020,3,9,Driver,Motorcycle,Male,31,2020-03-09
 2020-0019,2020-03-10,2020,3,10,Pedestrian,Pedestrian,Female,80,2020-03-10
 2020-0020,2020-03-13,2020,3,13,Pedestrian,Pedestrian,Female,74,2020-03-17
@@ -562,7 +562,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2020-0022,2020-04-07,2020,4,7,Passenger_Companion,Car,Male,44,2020-04-07
 2020-0023,2020-04-09,2020,4,9,Driver,Car,Male,44,2020-05-03
 2020-0024,2020-04-24,2020,4,24,Driver,Car,Male,53,2020-04-24
-2020-0025,2020-05-12,2020,5,12,Pedestrian,Pedestrian,Male,-1,2020-05-12
+2020-0025,2020-05-12,2020,5,12,Pedestrian,Pedestrian,Male,42,2020-05-12
 2020-0026,2020-05-17,2020,5,17,Driver,Motorcycle,Male,28,2020-05-17
 2020-0027,2020-05-18,2020,5,18,Pedestrian,Pedestrian,Male,76,2020-05-18
 2020-0028,2020-05-19,2020,5,19,Pedestrian,Pedestrian,Male,91,2020-05-23
@@ -571,14 +571,14 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2020-0031,2020-06-30,2020,6,30,Driver,Motorcycle,Male,29,2020-06-30
 2020-0032,2020-07-10,2020,7,10,Driver,Motorcycle,Male,21,2020-07-10
 2020-0033,2020-07-19,2020,7,19,Driver,Car,Male,32,2020-07-19
-2020-0034,2020-08-02,2020,8,2,Pedestrian,Pedestrian,Female,-1,2020-08-02
+2020-0034,2020-08-02,2020,8,2,Pedestrian,Pedestrian,Female,42,2020-08-02
 2020-0035,2020-08-04,2020,8,4,Driver,Motorcycle,Male,40,2020-08-04
 2020-0036,2020-08-07,2020,8,7,Pedestrian,Pedestrian,Male,72,2020-08-22
 2020-0037,2020-08-29,2020,8,29,Pedestrian,Pedestrian,Male,38,2020-08-29
 2020-0038,2020-08-30,2020,8,30,Driver,Car,Male,46,2020-08-30
 2020-0038,2020-08-30,2020,8,30,Driver,Car,Male,64,2020-08-30
 2020-0039,2020-09-01,2020,9,1,Pedestrian,Pedestrian,Male,44,2020-09-01
-2020-0040,2020-09-12,2020,9,12,Driver,Car,Male,-1,2020-09-12
+2020-0040,2020-09-12,2020,9,12,Driver,Car,Male,42,2020-09-12
 2020-0041,2020-09-28,2020,9,28,Driver,Motorcycle,Male,34,2020-09-28
 2020-0042,2020-09-29,2020,9,29,Pedestrian,Pedestrian,Female,53,2020-09-29
 2020-0043,2020-09-30,2020,9,30,Pedestrian,Pedestrian,Male,64,2020-09-30
@@ -630,7 +630,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2021-0009,2021-01-23,2021,1,23,Driver,Motorcycle,Male,31,2021-01-23
 2021-0010,2021-01-23,2021,1,23,Driver,Motorcycle,Male,28,2021-01-23
 2021-0011,2021-01-27,2021,1,27,Pedestrian,Pedestrian,Male,21,2021-01-27
-2021-0012,2021-01-29,2021,1,29,Pedestrian,Pedestrian,Male,-1,2021-01-29
+2021-0012,2021-01-29,2021,1,29,Pedestrian,Pedestrian,Male,42,2021-01-29
 2021-0013,2021-01-31,2021,1,31,Driver,Motorcycle,Male,41,2021-01-31
 2021-0014,2021-02-02,2021,2,2,Pedestrian,Pedestrian,Male,28,2021-02-18
 2021-0015,2021-02-06,2021,2,6,Driver,Motorcycle,Male,26,2021-02-06
@@ -638,7 +638,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2021-0017,2021-02-17,2021,2,17,Driver,Motorcycle,Male,33,2021-02-17
 2021-0018,2021-02-20,2021,2,20,Pedestrian,Pedestrian,Male,36,2021-03-08
 2021-0019,2021-02-21,2021,2,21,Driver,Motorcycle,Male,30,2021-02-21
-2021-0020,2021-02-21,2021,2,21,Pedestrian,Pedestrian,Female,-1,2021-02-21
+2021-0020,2021-02-21,2021,2,21,Pedestrian,Pedestrian,Female,42,2021-02-21
 2021-0021,2021-02-26,2021,2,26,Driver,Motorcycle,Male,39,2021-03-04
 2021-0022,2021-02-28,2021,2,28,Passenger_Companion,Passengers,Male,68,2021-03-06
 2021-0023,2021-03-01,2021,3,1,Driver,Motorcycle,Male,24,2021-03-01
@@ -646,7 +646,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2021-0025,2021-03-11,2021,3,11,Driver,Motorcycle,Male,37,2021-03-11
 2021-0026,2021-03-15,2021,3,15,Driver,Motorcycle,Male,36,2021-03-15
 2021-0027,2021-03-16,2021,3,16,Driver,Motorcycle,Female,19,2021-03-16
-2021-0028,2021-03-29,2021,3,29,Pedestrian,Pedestrian,Male,-1,2021-03-29
+2021-0028,2021-03-29,2021,3,29,Pedestrian,Pedestrian,Male,42,2021-03-29
 2021-0029,2021-03-31,2021,3,31,Driver,Car,Male,26,2021-04-02
 2021-0030,2021-04-03,2021,4,3,Pedestrian,Pedestrian,Male,36,2021-04-07
 2021-0031,2021-04-07,2021,4,7,Pedestrian,Pedestrian,Female,68,2021-04-11
@@ -697,7 +697,7 @@ Incident_ID,Date,Year,Month,Day,Role,Victim,Gender,Age,Date_of_Death
 2021-0076,2021-10-16,2021,10,16,Driver,Motorcycle,Male,31,2021-10-16
 2021-0077,2021-10-18,2021,10,18,Driver,Motorcycle,Female,31,2021-10-18
 2021-0078,2021-10-23,2021,10,23,Driver,Motorcycle,Male,22,2021-10-23
-2021-0079,2021-10-25,2021,10,25,Pedestrian,Pedestrian,Male,-1,2021-10-25
+2021-0079,2021-10-25,2021,10,25,Pedestrian,Pedestrian,Male,42,2021-10-25
 2021-0080,2021-10-28,2021,10,28,Driver,Motorcycle,Male,32,2021-10-28
 2021-0081,2021-11-02,2021,11,2,Driver,Motorcycle,Male,26,2021-11-02
 2021-0082,2021-11-06,2021,11,6,Driver,Motorcycle,Male,38,2021-11-06
